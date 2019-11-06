@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-//Author James Plimbley
-
 class Dec2Hex
 {
     public static int Arg1;
